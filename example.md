@@ -10,7 +10,7 @@ In my free time, I enjoy
 4)
 
 
-I love eating these food:
+I love eating these food
 1)
 2)
 3)
