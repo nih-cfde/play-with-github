@@ -1,6 +1,6 @@
 # Practice using GitHub
 
-This repo is a safe place for you to practice making changes to files and folders in GitHub. If you decide to use this repo as a playground, we can easily help you troubleshoot when you are stuck. 
+This repo is a safe space for you to practice making changes to files and folders in GitHub. If you decide to use this repo as a playground, we can easily help you troubleshoot when you are stuck. 
 
 To give you a convenient place to start, we have created an example file called [example.md](./example.md)
 
