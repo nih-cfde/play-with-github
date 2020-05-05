@@ -8,8 +8,7 @@ In my free time, I enjoy
 2) teaching myself GitHub 
 3) eating ice cream 
 4)
-5)
-
+---
 I love eating these food
 1) dark chocolate
 2) 
