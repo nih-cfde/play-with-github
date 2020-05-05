@@ -9,12 +9,10 @@ In my free time, I enjoy
 3) 
 4)
 
-
 I love eating these food
 1) dark chocolate
 2) 
 3) 
-
 
 Thank you for helping me :) 
 
